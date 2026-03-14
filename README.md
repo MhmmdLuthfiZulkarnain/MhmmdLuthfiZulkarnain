@@ -88,12 +88,10 @@
 
 ###
 
-<!-- Gunakan branch 'main' (ganti jika branch Anda berbeda) -->
-<img alt="pacman contribution graph"
-     src="https://raw.githubusercontent.com/MhmmdLuthfiZulkarnain/MhmmdLuthfiZulkarnain/main/output/pacman-contribution-graph.svg" />
-
-<img alt="Snake animation"
-     src="https://raw.githubusercontent.com/MhmmdLuthfiZulkarnain/MhmmdLuthfiZulkarnain/main/output/snake.svg" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MhmmdLuthfiZulkarnain&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhmmdLuthfiZulkarnain&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
