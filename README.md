@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I’m Mhmmd Luthfi Zulkarnain — Web & Mobile Developer and Cybersecurity Engineer from Banjarmasin.<br>I build secure, scalable applications with a strong focus on user experience. I combine software engineering practices with security principles from the design phase.</p>
+<p align="left">Hi, I’m Mhmmd Luthfi Zulkarnain — Web & Mobile Developer and Cybersecurity Engineer from Banjarmasin.<br>I build secure, scalable applications with a strong focus on user experience. I combine software engineering practices with security principles from the design phase.  By the way, I frequently contribute to private projects every Time</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: A full‑stack project management platform (Next.js, Node.js, MYSQL) and a secure authentication module for mobile apps.<br><br>👯 I’m looking to collaborate on: Open source tooling for developers, cross‑platform mobile apps, and application security initiatives.<br><br>🤝 I’m looking for help with: Threat modeling for microservices architecture and secure CI/CD integration.<br><br>🌱 I’m currently learning: Secure DevOps, advanced mobile app hardening, and threat hunting.<br><br>💬 JavaScript, TypeScript, React, Flutter, mobile security, and basic pentesting<br><br>⚡ I often write small scripts to automate routine security audits.  By the way, I frequently contribute to private projects every Time</p>
+<p align="left">🔭 I’m currently working on: A full‑stack project management platform (Next.js, Node.js, MYSQL) and a secure authentication module for mobile apps.<br><br>👯 I’m looking to collaborate on: Open source tooling for developers, cross‑platform mobile apps, and application security initiatives.<br><br>🤝 I’m looking for help with: Threat modeling for microservices architecture and secure CI/CD integration.<br><br>🌱 I’m currently learning: Secure DevOps, advanced mobile app hardening, and threat hunting.<br><br>💬 JavaScript, TypeScript, React, Flutter, mobile security, and basic pentesting<br><br>⚡ I often write small scripts to automate routine security audits.</p>
 
 ###
 
