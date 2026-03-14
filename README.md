@@ -107,7 +107,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MhmmdLuthfiZulkarnain/MhmmdLuthfiZulkarnain/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
