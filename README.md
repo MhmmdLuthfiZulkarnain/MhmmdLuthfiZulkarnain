@@ -1,7 +1,3 @@
-![Muhammad Luhfi Zulkarnain]([github-header-banner-REDHAT.png])
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
