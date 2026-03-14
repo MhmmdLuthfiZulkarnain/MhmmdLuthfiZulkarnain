@@ -111,10 +111,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
 <img src="https://raw.githubusercontent.com/MhmmdLuthfiZulkarnain/MhmmdLuthfiZulkarnain/output/snake.svg" alt="Snake animation" />
 
 ###
