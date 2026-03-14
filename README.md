@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I’m Mhmmd Luthfi Zulkarnain — Web & Mobile Developer and Cybersecurity Engineer from Banjarmasin.<br>I build secure, scalable applications with a strong focus on user experience. I combine software engineering practices with security principles from the design phase.  By the way, I frequently contribute to private projects every Time</p>
+<p align="left">Hi, I’m Mhmmd Luthfi Zulkarnain — Web & Mobile Developer and Cybersecurity Engineer from Banjarmasin.<br>I build secure, scalable applications with a strong focus on user experience. I combine software engineering practices with security principles from the design phase. I frequently contribute to private projects every Time</p>
 
 ###
 
